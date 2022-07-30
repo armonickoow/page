@@ -1,0 +1,71 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.about{
+    text-align: center;
+}
+
+.paraone{
+    margin-bottom: 15px;
+}
+
+.para{
+    margin-top: 15px;
+}
+
+.headings{
+    text-align: center;
+}
+
+.art{
+    max-width: 500px;
+}
+
+.img{
+    border: 2px solid rgb(42, 52, 84);
+    width: 800px;
+    height: 250px;
+    border-radius: 15px;
+}
+
+.linea{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.mypages{
+    text-align: center;
+}
+
+.footer{
+    max-width: 900px;
+}
+
+.contact-me{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+.btn{
+    background-color: rgb(74, 74, 154);
+    border: none;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: rgb(109, 109, 231);
+    transition: .3s;
+    border: none;
+}
+
+
